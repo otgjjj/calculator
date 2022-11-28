@@ -1,6 +1,6 @@
 #include <arithmetic.h>
 
-int add(int a, int b)
+int add(int c, int d)
 {
-    return a+b;
+    return c+d;
 }
